@@ -11,9 +11,9 @@ Cada exercício foi feito em um arquivo separado para melhor organização. 🎯
 src/
 └─ exercicios_unidade2/
 
-├─ VeiculoHerança.java # Veículo, Carro e Moto
+├─ Veiculo.java # Veículo, Carro e Moto
 
-├─ HierarquiaAnimais.java # Hierarquia de Animais
+├─ Hierarquia.java # Hierarquia de Animais
 
 ├─ ContaBancaria.java # Conta Bancária, Corrente e Poupança
 
